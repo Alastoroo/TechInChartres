@@ -251,3 +251,50 @@ body {
 		}
 	/*END Compte à rebours navbar*/
 
+	/* DEBUT CSS GALLERIE POUR ONE PAGE */
+
+	.btn-top {
+        margin-top:70px;
+        border-radius:1000px;
+        background:#159148;
+        border:2px solid #159148;
+        color:white;
+        letter-spacing:2px;
+        text-transform:uppercase;
+        font-size:12px;
+        font-family:"Roboto", sans-serif;
+        padding:10px 15px;
+        font-weight:500;
+    }
+        .btn-top:hover {
+            color:white;
+            background:#159148;
+            border:2px solid #159148;
+           
+        }
+
+body {
+    background-color: #ECFFBD;
+}
+
+.video{
+    
+    text-align: center;
+
+}
+
+/* FIN CSS GALLERIE POUR ONE PAGE */
+
+/* DEBUT CSS GALLERIE POUR PAGE GALLERIE */
+body {
+	background-color: #ECFFBD;
+}
+
+#video {
+	width:400px;
+	height:200px;
+	margin: 15px;
+
+}
+
+/* FIN CSS GALLERIE POUR PAGE GALLERIE */
